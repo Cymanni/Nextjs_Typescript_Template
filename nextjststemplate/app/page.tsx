@@ -40,6 +40,9 @@ export default function Home() {
         <h1>Typescript</h1>
       </div>
 <h1 className="text-3xl font-bold text-zinc-500">Template by Cymanni</h1>
+<>
+      <button className="btn btn-primary">Hello daisyUI!</button>
+    </>
       <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-4 lg:text-left">
         <a
           href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
