@@ -1,0 +1,1 @@
+# Nextjs_Typescript_Template
